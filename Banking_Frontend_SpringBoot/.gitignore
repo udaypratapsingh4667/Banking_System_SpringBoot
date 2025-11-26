@@ -1,0 +1,9 @@
+
+# --- Maven Build Output ---
+target/
+
+# --- IntelliJ Output ---
+out/
+
+# --- SECURITY (Configs) ---
+src/config.properties

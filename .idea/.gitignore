@@ -1,0 +1,17 @@
+
+# --- Global IDE Files (IntelliJ) ---
+.idea/
+*.iws
+*.iml
+*.ipr
+/shelf/
+/workspace.xml
+out/
+
+# --- Maven Global ---
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# --- OS System Files ---
+.DS_Store
+Thumbs.db
